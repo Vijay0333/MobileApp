@@ -4,4 +4,4 @@ Today we learn ho to make reposetry and how to use git and github
 
 this session is very intresting
 i create a repo MobileApp
-somone student done their task
+all student done their task
